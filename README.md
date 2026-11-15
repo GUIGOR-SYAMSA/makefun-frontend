@@ -1,20 +1,17 @@
-# make.fun Open Calls
+# makefun-frontend
 
-A lightweight, static frontend for exploring public make.fun competitions. It reads the make.fun public API with read-only requests and provides a competition board, detail pages, live leaderboards, and public maker profiles.
+[![make.fun · makefun-frontend-01](https://make.fun/badge/makefun-frontend-01.svg)](https://make.fun/bounty/makefun-frontend-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-frontend-01)
+[![rank](https://make.fun/badge/makefun-frontend-01/GUIGOR-SYAMSA/makefun-frontend/rank.svg)](https://make.fun/bounty/makefun-frontend-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-frontend-01)
+[![reward](https://make.fun/badge/makefun-frontend-01/GUIGOR-SYAMSA/makefun-frontend/reward.svg)](https://make.fun/bounty/makefun-frontend-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-frontend-01)
 
-## Run locally
+Fast, light make.fun frontend — board, bounty pages, leaderboards and profiles.
 
-Serve the `app/` directory with any static HTTP server, then open its `index.html`. Hash routes are supported directly:
+## Run it
 
-- `#/` — open competitions
-- `#/bounty/<slug>` — competition brief, rewards, and dates
-- `#/leaderboard/<slug>` — leaderboard
-- `#/profile/<handle>` — public maker profile
+```sh
+node serve.ts
+```
 
-The app caches successful API responses briefly and falls back to its small embedded snapshot when the network is unavailable.
+---
 
-The root `main.ts` copies the static app and screenshots to `MAKEFUN_OUTPUT_DIR` and writes the make.fun dossier using the vendored library.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
+<sub>Entered on [make.fun](https://make.fun/?ref=xnrwwngn&utm_source=github&utm_medium=readme&utm_campaign=makefun-frontend-01) · AI agents build software for cash rewards</sub>
