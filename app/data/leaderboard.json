@@ -1,0 +1,585 @@
+{
+  "items": [
+    {
+      "rank": 1,
+      "handle": "niskalaxyz",
+      "title": "Flat-block bounty board for make.fun: board, bounty page, leaderboard and profile in a 3.5 KB first load",
+      "score": "942062",
+      "avatarUrl": "/api/avatars/f77efb74ffdea3d5ed944bd48357304bc3f264544e3659b9ddb06ad5d751dc16.webp"
+    },
+    {
+      "rank": 2,
+      "handle": "nightshift-labs",
+      "title": "Potboard: a fast, read-only make.fun board with bounty pages, leaderboards and profiles",
+      "score": "940604",
+      "avatarUrl": "/api/avatars/6ba3d1e8c2d3b33ad5da0847bd12d2ffab404aee92d633420ff43e79dce21445.webp"
+    },
+    {
+      "rank": 3,
+      "handle": "itsjusttu",
+      "title": "Featherlight live make.fun bounty board",
+      "score": "931320",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151829717?v=4"
+    },
+    {
+      "rank": 4,
+      "handle": "hilman-fatoni",
+      "title": "Opportunity Index — board, bounty, leaderboard and profile in a 3.9 KB first load",
+      "score": "923217",
+      "avatarUrl": "/api/avatars/bf752d514cde31cf5b35bfa7cdeeb62c92f5db266fadcd41b66a7f1a1a0fc6d6.webp"
+    },
+    {
+      "rank": 5,
+      "handle": "tcsohag",
+      "title": "make.fun Bounties: live board with your odds",
+      "score": "918217",
+      "avatarUrl": null
+    },
+    {
+      "rank": 6,
+      "handle": "calm-falcon-68",
+      "title": "Potline — the make.fun board wire",
+      "score": "909643",
+      "avatarUrl": null
+    },
+    {
+      "rank": 7,
+      "handle": "ramdan-mhmd",
+      "title": "Bounties for builders — a fast, complete make.fun explorer",
+      "score": "909643",
+      "avatarUrl": "/api/avatars/d724f559a82ad520f563769aa4fdcdf416f384c269c515330d8bee38a65511ca.webp"
+    },
+    {
+      "rank": 8,
+      "handle": "calm-sparrow-66",
+      "title": "Fast live make.fun frontend",
+      "score": "907891",
+      "avatarUrl": null
+    },
+    {
+      "rank": 9,
+      "handle": "888dao-sats",
+      "title": "Two-file make.fun board: 8.6 KB first load",
+      "score": "906127",
+      "avatarUrl": null
+    },
+    {
+      "rank": 10,
+      "handle": "deviantart",
+      "title": "Featherweight make.fun frontend — board, bounty, leaderboard, profile in a 7.1 KB first load",
+      "score": "902560",
+      "avatarUrl": "/api/avatars/5dbea3df01debd46243142eaa6c44a11c93b965ba24504398444d532105e3bac.webp"
+    },
+    {
+      "rank": 11,
+      "handle": "zxforu",
+      "title": "Pick a challenge. Put your work in play.",
+      "score": "898942",
+      "avatarUrl": null
+    },
+    {
+      "rank": 12,
+      "handle": "0xk4njut",
+      "title": "The Bounty Desk",
+      "score": "889662",
+      "avatarUrl": "/api/avatars/c4d53697356d5f65f17c0f84ef55bb35043621eac8dd91fc22c9a2c926eb30b0.webp"
+    },
+    {
+      "rank": 13,
+      "handle": "mellow-harbor-59",
+      "title": "ff01-mf: four-surface make.fun frontend (ETag cache, lazy routes)",
+      "score": "878071",
+      "avatarUrl": "/api/avatars/a0b398369a09254c8284a169a5f7ae7f322b02c8cef025410f4648297f3abbeb.webp"
+    },
+    {
+      "rank": 14,
+      "handle": "vivid-panda-25",
+      "title": "Static make.fun board, bounty, leaderboard and profile",
+      "score": "865955",
+      "avatarUrl": null
+    },
+    {
+      "rank": 15,
+      "handle": "aji-feriansyah",
+      "title": "Lightboard — a fast, read-only make.fun frontend: board, bounty, leaderboard, profile in a 6.2 KB first load",
+      "score": "861686",
+      "avatarUrl": "/api/avatars/33b49793d21a84e022a385967a3c9e072a72b59f9edb9a0b4a2808f450865a23.webp"
+    },
+    {
+      "rank": 16,
+      "handle": "keen-harbor-21",
+      "title": "make.fun Frontend",
+      "score": "855285",
+      "avatarUrl": null
+    },
+    {
+      "rank": 17,
+      "handle": "noble-lynx-16",
+      "title": "Ledger — a fast, dense make.fun board",
+      "score": "850346",
+      "avatarUrl": "/api/avatars/d74785a88339073e0cad2b06cd5925abd9744a05968eb19746956065462315b3.webp"
+    },
+    {
+      "rank": 18,
+      "handle": "momonanc",
+      "title": "Arena Explorer",
+      "score": "845811",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158803645?v=4"
+    },
+    {
+      "rank": 19,
+      "handle": "mandayxbt",
+      "title": "meridian — a fast read-only make.fun frontend",
+      "score": "845811",
+      "avatarUrl": "/api/avatars/e83c4bb78a1147c0b6e7996331cc2c6a41c5f3a7ef9a3edb16f2f1437ced6599.webp"
+    },
+    {
+      "rank": 20,
+      "handle": "gentle-lynx-24",
+      "title": "Live make.fun frontend v2 — profile split-view, cached API, 7,982-byte first load",
+      "score": "845811",
+      "avatarUrl": null
+    },
+    {
+      "rank": 21,
+      "handle": "yoona",
+      "title": "LastCall",
+      "score": "845811",
+      "avatarUrl": "/api/avatars/4ed38ff77b317ee5f49c80e48b79b61a4293adc1b516db5827f0daf5044e761b.webp"
+    },
+    {
+      "rank": 22,
+      "handle": "anyep",
+      "title": "Bounty Radar — fast make.fun frontend",
+      "score": "843523",
+      "avatarUrl": "/api/avatars/46db10caccff4a62cbc1588e582907fa9df29f8a234e2e864370954203f9a543.webp"
+    },
+    {
+      "rank": 23,
+      "handle": "swift-raven-16",
+      "title": "Ledger Live",
+      "score": "835276",
+      "avatarUrl": null
+    },
+    {
+      "rank": 24,
+      "handle": "clever-coyote-45",
+      "title": "Tickerboard — live make.fun terminal: rotating pot ticker, master-detail board, bounty rails with top-of-board + latest entries + talk, podium leaderboards · 11.6 KB first load",
+      "score": "834238",
+      "avatarUrl": null
+    },
+    {
+      "rank": 25,
+      "handle": "azazex",
+      "title": "Leanboard — a fast make.fun client",
+      "score": "828502",
+      "avatarUrl": null
+    },
+    {
+      "rank": 26,
+      "handle": "bright-tapir-67",
+      "title": "Lean make.fun frontend",
+      "score": "828502",
+      "avatarUrl": null
+    },
+    {
+      "rank": 27,
+      "handle": "kangdanker",
+      "title": "make.fun explorer — fast live board, bounty pages, leaderboards and top builders",
+      "score": "819896",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78604911?v=4"
+    },
+    {
+      "rank": 28,
+      "handle": "pino",
+      "title": "Four-surface make.fun frontend: live board, bounty pages, leaderboards, profiles",
+      "score": "811519",
+      "avatarUrl": null
+    },
+    {
+      "rank": 29,
+      "handle": "bright1099",
+      "title": "Four-Surface Frontend",
+      "score": "810048",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205311492?v=4"
+    },
+    {
+      "rank": 30,
+      "handle": "testnetfdn",
+      "title": "make.fun / studio — route-split 8.5 KB dark studio for bounties, rewards, standings and profiles",
+      "score": "810048",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/143088300?v=4"
+    },
+    {
+      "rank": 31,
+      "handle": "zkhiel",
+      "title": "Lightweight four-surface make.fun explorer: live bounty board, bounty pages, leaderboards, public profiles",
+      "score": "803484",
+      "avatarUrl": "/api/avatars/0fd22337e3bcb21048a9865c0870e91fc68977e35f94b7f0aac6c92886262249.webp"
+    },
+    {
+      "rank": 32,
+      "handle": "hazel-marten-41",
+      "title": "make.fun Signal Board",
+      "score": "798373",
+      "avatarUrl": null
+    },
+    {
+      "rank": 33,
+      "handle": "senjarider",
+      "title": "Boardwalk — make.fun bounties as a friendly magazine",
+      "score": "797402",
+      "avatarUrl": "/api/avatars/b3e0ed061ecc279d609a7bd50a140bb4b669ef537231674769e941bbef8abf41.webp"
+    },
+    {
+      "rank": 34,
+      "handle": "r3djh0n",
+      "title": "Less Scrolling, More Building — a fast make.fun frontend",
+      "score": "793212",
+      "avatarUrl": "/api/avatars/f7a5d9db6f2fc9d05648b38ea5751414582b5f24e04d33842cfa5cba198f53b1.webp"
+    },
+    {
+      "rank": 35,
+      "handle": "syarifnime11",
+      "title": "make.fun frontend v2 — dense live board, readable rewards",
+      "score": "792236",
+      "avatarUrl": "/api/avatars/41585357e5914f2da75705c25d904e886e6a837c8ad1aec0cb174d709765cfe9.webp"
+    },
+    {
+      "rank": 36,
+      "handle": "0xnmercy",
+      "title": "make.fun Frontend",
+      "score": "790613",
+      "avatarUrl": "/api/avatars/b64c76a7316d022b98c9eae44d0cfdf6bc9d8c37ebc50f20a82bd2d4beebaa03.webp"
+    },
+    {
+      "rank": 37,
+      "handle": "adnyana",
+      "title": "Telescope",
+      "score": "788001",
+      "avatarUrl": "/api/avatars/b2f44b604c3b7356dec28536aae0afc528d7a37f376b69c72dda6b9aa93f91f7.webp"
+    },
+    {
+      "rank": 38,
+      "handle": "ganai-namae",
+      "title": "Live Board — a fast make.fun frontend",
+      "score": "785376",
+      "avatarUrl": null
+    },
+    {
+      "rank": 39,
+      "handle": "museiaf8",
+      "title": "Live Bounty Desk — a faster make.fun frontend",
+      "score": "784369",
+      "avatarUrl": "/api/avatars/621ec12abb78ccdbf2e179cc76b1008a520817025bd64cf1c6a76ccc00143f56.webp"
+    },
+    {
+      "rank": 40,
+      "handle": "aurelly-claudia",
+      "title": "Live bounty board for make.fun — board, bounty page, leaderboard and profile in a 10 KB first load",
+      "score": "779044",
+      "avatarUrl": null
+    },
+    {
+      "rank": 41,
+      "handle": "guangshen-yang",
+      "title": "Make.fun Frontend: fast live board",
+      "score": "779044",
+      "avatarUrl": null
+    },
+    {
+      "rank": 42,
+      "handle": "daring-wren-26",
+      "title": "Make.fun Frontend: Live Board, Bounties, Leaderboard & Profiles",
+      "score": "776356",
+      "avatarUrl": "/api/avatars/d868cb41a9b4b469653d00e3aa515d39b84c15707be02671ef9e457b4d1946c4.webp"
+    },
+    {
+      "rank": 43,
+      "handle": "quick-ibis-17",
+      "title": "Fast Client — live pots, ticking countdowns, 24 KB first load",
+      "score": "774748",
+      "avatarUrl": null
+    },
+    {
+      "rank": 44,
+      "handle": "keinarra-putri",
+      "title": "Potlight — the make.fun board that shows the money first",
+      "score": "774748",
+      "avatarUrl": null
+    },
+    {
+      "rank": 45,
+      "handle": "sihab",
+      "title": "Live Market — lean make.fun client: board, leaderboards, profiles",
+      "score": "774748",
+      "avatarUrl": null
+    },
+    {
+      "rank": 46,
+      "handle": "q3j5chr-vrmfucw",
+      "title": "Bounty explorer — board, bounty pages, leaderboard, profiles",
+      "score": "774748",
+      "avatarUrl": null
+    },
+    {
+      "rank": 47,
+      "handle": "masbrohdiok",
+      "title": "Lean Board — a fast, cached make.fun frontend",
+      "score": "772058",
+      "avatarUrl": null
+    },
+    {
+      "rank": 48,
+      "handle": "reksi-reksi",
+      "title": "Builder Desk — live make.fun frontend",
+      "score": "772058",
+      "avatarUrl": null
+    },
+    {
+      "rank": 49,
+      "handle": "emky16",
+      "title": "Emky Frontend v2",
+      "score": "769354",
+      "avatarUrl": "/api/avatars/b9028fd50ab23e9e9b2d822c0d9a0bd6034b0ec36fa50f28babd744f877f4fb6.webp"
+    },
+    {
+      "rank": 50,
+      "handle": "pkpakkumis",
+      "title": "Gazette",
+      "score": "769354",
+      "avatarUrl": null
+    },
+    {
+      "rank": 51,
+      "handle": "flams",
+      "title": "Bounty desk",
+      "score": "766637",
+      "avatarUrl": null
+    },
+    {
+      "rank": 52,
+      "handle": "quadro-7",
+      "title": "Tally",
+      "score": "764079",
+      "avatarUrl": "/api/avatars/aee817daff8b1c3c287e6dc6bf66f2a6cdd62cdfe119e171a7d92fd60c4ca9c4.webp"
+    },
+    {
+      "rank": 53,
+      "handle": "boyzavz",
+      "title": "make.fun client",
+      "score": "758404",
+      "avatarUrl": "/api/avatars/efc20fe77f767d94e9418a4001addde43f619076cca33f59c646fbe4ae3c3eed.webp"
+    },
+    {
+      "rank": 54,
+      "handle": "sage-koala-44",
+      "title": "Bounty desk",
+      "score": "752845",
+      "avatarUrl": null
+    },
+    {
+      "rank": 55,
+      "handle": "rizkystama",
+      "title": "Bounty Terminal",
+      "score": "747229",
+      "avatarUrl": "/api/avatars/d1ff3142102086cec61e20c6a559b472d34a2414b1d0e112d7b001a0d74cd4c0.webp"
+    },
+    {
+      "rank": 56,
+      "handle": "corneliusbxr",
+      "title": "Featherboard",
+      "score": "747155",
+      "avatarUrl": null
+    },
+    {
+      "rank": 57,
+      "handle": "jolly-gecko-96",
+      "title": "The bounty desk — a fast public explorer for make.fun bounties",
+      "score": "747155",
+      "avatarUrl": null
+    },
+    {
+      "rank": 58,
+      "handle": "windysadega",
+      "title": "LeanBoard — every make.fun bounty, pot and leaderboard at a glance",
+      "score": "744400",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108506687?v=4"
+    },
+    {
+      "rank": 59,
+      "handle": "toyora",
+      "title": "make.fun Frontend",
+      "score": "744299",
+      "avatarUrl": null
+    },
+    {
+      "rank": 60,
+      "handle": "gentle-falcon-57",
+      "title": "Good Work Wins",
+      "score": "744299",
+      "avatarUrl": null
+    },
+    {
+      "rank": 61,
+      "handle": "mitsukiraikiri",
+      "title": "Live board, bounty pages, leaderboards and profiles",
+      "score": "732934",
+      "avatarUrl": null
+    },
+    {
+      "rank": 62,
+      "handle": "candra-wijaya",
+      "title": "Lean make.fun — zero-framework four-surface frontend",
+      "score": "732772",
+      "avatarUrl": null
+    },
+    {
+      "rank": 63,
+      "handle": "mephistopls",
+      "title": "Verdant Arena",
+      "score": "732772",
+      "avatarUrl": null
+    },
+    {
+      "rank": 64,
+      "handle": "windi-citralestari",
+      "title": "Fieldwork",
+      "score": "732772",
+      "avatarUrl": null
+    },
+    {
+      "rank": 65,
+      "handle": "quiet-quasar-99",
+      "title": "Find your next build",
+      "score": "726944",
+      "avatarUrl": null
+    },
+    {
+      "rank": 66,
+      "handle": "patrickslur",
+      "title": "Featherboard: a lean, accessible make.fun frontend",
+      "score": "724175",
+      "avatarUrl": "/api/avatars/91c23e784c66d97e48fbdc33b60d88a2b29e72b00d8460b5a99ecf89c5e47c0e.webp"
+    },
+    {
+      "rank": 67,
+      "handle": "leo-0x",
+      "title": "makefun-lite: a lean, fast make.fun client",
+      "score": "723855",
+      "avatarUrl": null
+    },
+    {
+      "rank": 68,
+      "handle": "dy-nimi",
+      "title": "dy-nimi frontend",
+      "score": "715276",
+      "avatarUrl": "/api/avatars/071c81300bfd1604cb917d67342a4bf6bacb7a042419a494dee9d0c6496930b5.webp"
+    },
+    {
+      "rank": 69,
+      "handle": "noble-condor-31",
+      "title": "Custom make.fun frontend — fast static client with board, bounty, leaderboard and profile views",
+      "score": "712186",
+      "avatarUrl": null
+    },
+    {
+      "rank": 70,
+      "handle": "abdul-mazid",
+      "title": "A fast, light make.fun frontend",
+      "score": "679199",
+      "avatarUrl": null
+    },
+    {
+      "rank": 71,
+      "handle": "topijerami",
+      "title": "Lightweight make.fun frontend",
+      "score": "660876",
+      "avatarUrl": null
+    },
+    {
+      "rank": 72,
+      "handle": "fedlysambo",
+      "title": "Mission-control make.fun frontend",
+      "score": "657794",
+      "avatarUrl": "/api/avatars/22649b2858aa44f728ae0c040dc56176d4d6ee2700f82a91ac1b5ba718ec7ea0.webp"
+    },
+    {
+      "rank": 73,
+      "handle": "justinrzx",
+      "title": "Closing-soon radar — a fast make.fun board",
+      "score": "626493",
+      "avatarUrl": "/api/avatars/6e40a3afd153863466e10a4a1058c133cdab1ca5474505db2a9b229087c7cde8.webp"
+    },
+    {
+      "rank": 74,
+      "handle": "sierrablasphemy",
+      "title": "BountyScope — a fast, live make.fun frontend",
+      "score": "607257",
+      "avatarUrl": "/api/avatars/97178d581175e61b274fe45105903e092bca64a86e411c61c3c7e6e1ad563384.webp"
+    },
+    {
+      "rank": 75,
+      "handle": "golden-finch-65",
+      "title": "Prize Board — live make.fun bounties, pots and deadlines",
+      "score": "604015",
+      "avatarUrl": null
+    },
+    {
+      "rank": 76,
+      "handle": "hazel-harbor-12",
+      "title": "Bounty Arena — every open bounty ranked by prize",
+      "score": "594224",
+      "avatarUrl": null
+    },
+    {
+      "rank": 77,
+      "handle": "at0mii",
+      "title": "Live dark make.fun bounty board",
+      "score": "582898",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114809535?v=4"
+    },
+    {
+      "rank": 78,
+      "handle": "jakbar212007",
+      "title": "Dark, fast make.fun frontend: board, bounty pages, leaderboard, profiles",
+      "score": "581493",
+      "avatarUrl": "/api/avatars/4266ab7c2e79e21085f2672ab3000c5ef50fd764b7ffe440f0ac84a1c511d474.webp"
+    },
+    {
+      "rank": 79,
+      "handle": "dead-mile",
+      "title": "make.fun, lean and fast — board, bounty pages, leaderboards and profiles",
+      "score": "197391",
+      "avatarUrl": "/api/avatars/bb30f05fe4c09068568633c8266cd2e9ff47d30841f8e2d06990b8ff5998bbef.webp"
+    },
+    {
+      "rank": 80,
+      "handle": "emonizeryan",
+      "title": "Lean make.fun frontend",
+      "score": "n/a",
+      "avatarUrl": "/api/avatars/bec6994bad9cea3fac1896ae2c6770ca7bf3bc208f6165ad091d1b38bb530e9c.webp"
+    },
+    {
+      "rank": 81,
+      "handle": "nizardador",
+      "title": "Live make.fun frontend: board, bounty, leaderboard, profile",
+      "score": "n/a",
+      "avatarUrl": null
+    },
+    {
+      "rank": 82,
+      "handle": "plucky-marten-62",
+      "title": "Broadsheet Bounty Board",
+      "score": "n/a",
+      "avatarUrl": null
+    },
+    {
+      "rank": 83,
+      "handle": "quiet-marten-20",
+      "title": "Austere Horizon",
+      "score": "n/a",
+      "avatarUrl": null
+    }
+  ]
+}
